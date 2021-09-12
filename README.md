@@ -1,4 +1,4 @@
-<img src="001.png" width="100%" alt="#">
+
 
 # PersonAPI Manager
 - O teor do projeto consiste em utilizar a modelagem de arquitetura API REST com Spring Boot e Java para desenvolver um sistema de cadastro e gerenciamento de pessoas de uma organização. Desafio proposto pelo bootcamp da empresa Capgemini.
